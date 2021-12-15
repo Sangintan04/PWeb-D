@@ -4,9 +4,9 @@
 </head>
 <body>
  
-	<h3>Data Pegawai</h3>
+	<h3>NILAI KULIAH</h3>
  
-	<a href="/pegawai/tambah"> + Tambah Pegawai Baru</a>
+	<a href="/NILAIKULIAH/tambah"> + Tambah data nilai</a>
 	
 	<br/>
 	<br/>
