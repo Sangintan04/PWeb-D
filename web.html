@@ -1,6 +1,4 @@
-//route CRUD
-Route::get('/pegawai','PegawaiController@index');
-
-
-php artisan make:controller PegawaiController
-use Illuminate\Support\Facades\DB;
+//CRUD Nilai Kuliah
+Route::get('/nilaikuliah','NilaiController@index');
+Route::get('/nilaikuliah/tambah','NilaiController@tambah');
+Route::post('/nilaikuliah/store','NilaiController@store');
